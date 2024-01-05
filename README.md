@@ -1,3 +1,4 @@
+![logo](https://github.com/fulara1102/fulara1102/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Gaurav Fulara</h1>
 <h3 align="center">A passionate java full stack developer from Bharat.</h3>
 
