@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Fulara</h1>
 <h3 align="center">A passionate java full stack developer from Bharat.</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDcqaB03LqvqwdzF30kuLkonjRErqFDj6pA&usqp=CAU"
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravx1102&label=Profile%20views&color=0e75b6&style=flat" alt="gauravx1102" /> </p>
 
