@@ -40,27 +40,7 @@
   <a href="https://linkedin.com/in/gaurav-fulara" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/gauravx1102" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
 </p>
-
----
-
-<h3 align="left">Languages, Tools & Technologies:</h3>
-
-<p align="left">
-  <!-- Programming & Scripting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-
-  <!-- VLSI / EDA -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cadence_Design_Systems_logo.svg" width="80"/>
-</p>
-
----
 
 ### 🔬 VLSI Skill Set
 
@@ -75,7 +55,7 @@
 - **Tools**:  
   Cadence Innovus, Cadence Tempus
 - **Scripting**:  
-  Tcl, basic Shell (for flow automation)
+  Perl, Tcl, basic Shell (for flow automation)
 
 ---
 
