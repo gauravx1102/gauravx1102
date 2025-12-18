@@ -1,38 +1,92 @@
-
 ![logo](https://github.com/gauravx1102/gauravx1102/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Gaurav Fulara</h1>
-<h3 align="center">A passionate java full stack developer from Bharat.</h3>
+<h3 align="center">A passionate VLSI Physical Design Engineer from Bharat 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
+<img align="right" alt="vlsi" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravx1102&label=Profile%20views&color=0e75b6&style=flat" alt="gauravx1102" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gauravx1102&label=Profile%20views&color=0e75b6&style=flat" alt="gauravx1102" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/gauravx1102" target="blank"><img src="https://img.shields.io/twitter/follow/gauravx1102?logo=twitter&style=for-the-badge" alt="gauravx1102" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/gauravx1102" target="blank">
+    <img src="https://img.shields.io/twitter/follow/gauravx1102?logo=twitter&style=for-the-badge" alt="gauravx1102" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **java, Spring, Hibernate, Postgresql**
+---
 
-- 👯 I’m looking to collaborate on **Open source**
+### 👨‍🔬 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauravx1102](https://github.com/gauravx1102)
+- 🌱 Currently learning **VLSI Physical Design Flow (PNR)**  
+- 🔧 Hands-on with **Floorplanning, Placement, CTS, Routing, STA**
+- 🧠 Strong understanding of **Setup/Hold Timing, Clock Skew, Slack, Constraints**
+- 🛠️ Experience with **Cadence Innovus & Tempus**
+- 📐 Interested in **Low Power Design, Timing Closure & Backend Optimization**
+- 👯 Looking to collaborate on **VLSI / EDA automation & scripting projects**
+- 👨‍💻 Projects available at:  
+  👉 **https://github.com/gauravx1102**
+- 💬 Ask me about **STA, Physical Design Flow, Timing Reports, SDC**
+- 📫 Reach me at **fularagaurav1102@gmail.com**
 
-- 💬 Ask me about **Spring Boot, Postgresql, Github**
-
-- 📫 How to reach me **fularagaurav1102@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravx1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravx1102" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav fulara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav fulara" height="30" width="40" /></a>
-<a href="https://instagram.com/gauravx1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravx1102" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauravx1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravx1102" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@gauravfulara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gauravfulara" height="30" width="40" /></a>
+  <a href="https://twitter.com/gauravx1102" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/gaurav-fulara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/gauravx1102" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravx1102&show_icons=true&locale=en&layout=compact" alt="gauravx1102" /></p>
+<h3 align="left">Languages, Tools & Technologies:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravx1102&show_icons=true&locale=en" alt="gauravx1102" /></p>
+<p align="left">
+  <!-- Programming & Scripting -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravx1102&" alt="gauravx1102" /></p>
+  <!-- VLSI / EDA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cadence_Design_Systems_logo.svg" width="80"/>
+</p>
+
+---
+
+### 🔬 VLSI Skill Set
+
+- **Physical Design Flow**:  
+  Floorplanning → Placement → CTS → Routing → Signoff
+- **Static Timing Analysis (STA)**  
+  Setup/Hold, Skew, Uncertainty, OCV, Path Analysis
+- **Constraints**:  
+  SDC (Clocks, IO Delays, False/Multicycle Paths)
+- **Reports Analysis**:  
+  Timing, Power, Area, QoR
+- **Tools**:  
+  Cadence Innovus, Cadence Tempus
+- **Scripting**:  
+  Tcl, basic Shell (for flow automation)
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravx1102&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravx1102&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravx1102" />
+</p>
